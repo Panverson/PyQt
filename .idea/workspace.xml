@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8710768-abb4-45e1-a699-7ee40545917a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/Pyuic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/src/QtDesigner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/QtDesigner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/QtDesignerView.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/基础知识.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XIvojqdGRtgfTXcs8RNpmEFwoA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8710768-abb4-45e1-a699-7ee40545917a" name="Default Changelist" comment="" />
+      <created>1580746599108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580746599108</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update README.md &amp; ./chapter1">
+      <created>1580749164221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580749164221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README.md &amp; ./chapter1">
+      <created>1580826836559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580826836559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md &amp; ./chapter1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md &amp; ./chapter1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580827486979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580827486979" />
+    <state x="640" y="426" width="737" height="342" key="#com.intellij.tools.ToolEditorDialog" timestamp="1580827142684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="426" width="737" height="342" key="#com.intellij.tools.ToolEditorDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580827142684" />
+    <state x="162" y="115" key="CommitChangelistDialog2" timestamp="1580826835081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="162" y="115" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580826835081" />
+    <state x="162" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580749163090" />
+    <state x="106" y="260" key="SettingsEditor" timestamp="1580827143279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="106" y="260" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580827143279" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1580826840462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580826840462" />
+  </component>
+</project>

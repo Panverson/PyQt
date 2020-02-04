@@ -1,0 +1,8 @@
+## 1 新建窗体
+打开QtDesigner后，会弹出一个新建窗体对话框，其中共有五个选项。用的较多的是`dialog without buttons` 
+ `Main Window` `Widget`。\
+在开发程序时，通常选择Main Window。
+ 
+## 2 QtDesinger界面布局
+QtDesinger界面布局如图所示
+![QtDesinger界面布局](./src/QtDesignerView.png)
