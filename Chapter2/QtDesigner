@@ -6,3 +6,15 @@
 ## 2 QtDesinger界面布局
 QtDesinger界面布局如图所示
 ![QtDesinger界面布局](./src/QtDesignerView.png)
+
+## 3 一些功能
++ 预览界面效果：窗体 -> 预览
++ 查看界面的C++代码：窗体 -> 查看代码
+
+## 4 ui文件转化成Python代码
+`.ui`文件是一种xml格式的文件。内容为界面布局和控件属性等信息。
+
+方法一：\
+    `python -m PyQt5.uic.pyuic xxxx.ui -0 xxxx.py`
+方法二:\
+    参考[基础知识]中设置Pyuic工具。在PyCharm中右键单击ui文件，选择Pyuic自动转化为.py文件。

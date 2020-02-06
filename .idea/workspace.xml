@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8710768-abb4-45e1-a699-7ee40545917a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/src/Pyuic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/src/QtDesigner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/QtDesigner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/QtDesignerView.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/FirstPyqtDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/VerticalLayoutDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyQt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyQt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter1/基础知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/基础知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/QtDesigner" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/QtDesigner" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,8 +34,35 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstPyqtDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/FirstPyqtDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FirstPyqtDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -67,12 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1580826836559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update chapter2">
+      <created>1580828400051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580828400051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md &amp; ./chapter1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md &amp; ./chapter1" />
+    <MESSAGE value="Update chapter2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update chapter2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580827486979">
@@ -83,18 +125,39 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="426" width="737" height="342" key="#com.intellij.tools.ToolEditorDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580827142684" />
-    <state x="162" y="115" key="CommitChangelistDialog2" timestamp="1580826835081">
+    <state x="162" y="115" key="CommitChangelistDialog2" timestamp="1580828399031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="162" y="115" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580826835081" />
+    <state x="162" y="115" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580828399031" />
     <state x="162" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580749163090" />
-    <state x="106" y="260" key="SettingsEditor" timestamp="1580827143279">
+    <state width="998" height="273" key="GridCell.Tab.0.bottom" timestamp="1581003267870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580834463730" />
+    <state width="998" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581003267870" />
+    <state width="998" height="273" key="GridCell.Tab.0.center" timestamp="1581003267870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580834463730" />
+    <state width="998" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581003267870" />
+    <state width="998" height="273" key="GridCell.Tab.0.left" timestamp="1581003267869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580834463730" />
+    <state width="998" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581003267869" />
+    <state width="998" height="273" key="GridCell.Tab.0.right" timestamp="1581003267870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580834463730" />
+    <state width="998" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581003267870" />
+    <state x="106" y="260" key="SettingsEditor" timestamp="1581002288378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="106" y="260" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580827143279" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1580826840462">
+    <state x="106" y="260" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581002288378" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1580828401713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580826840462" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580828401713" />
   </component>
 </project>
